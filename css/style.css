@@ -1,0 +1,13 @@
+body {
+	background-color: black;
+	color: e3e3e3;
+	text-align: center;
+}
+h1 {
+	text-align: center;
+	color: #e3e3e3;
+
+}
+h1:hover {
+	color: green;
+}
